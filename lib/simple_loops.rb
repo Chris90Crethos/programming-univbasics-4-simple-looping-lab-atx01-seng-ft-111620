@@ -4,8 +4,6 @@ def loop_message_five_times(string)
   while string[counter] do
     puts string[counter]
     counter += 1 
-    string = "Hello World."
   end
 end
 
-loop_message_five_times(string)
