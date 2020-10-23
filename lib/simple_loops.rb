@@ -7,3 +7,5 @@ def loop_message_five_times(string)
     string = "Hello World."
   end
 end
+
+loop_message_five_times(string)
